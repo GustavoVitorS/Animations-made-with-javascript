@@ -1,39 +1,90 @@
 # Animations made with javascript 💫
 
-# Mouse cursor animation : https://github.com/GustavoVitorS/mouse
+# Mouse cursor animation : 
+  ## Repository: https://github.com/GustavoVitorS/mouse
+  ## Deploy: https://gustavovitors.github.io/mouse/
+  ##
 
-# Animation: https://github.com/GustavoVitorS/animation
-
-# Typing animation : https://github.com/GustavoVitorS/Typing
-
-# Move-your-Mouse : https://github.com/GustavoVitorS/Move-your-Mouse
-
-# Polka-dots-animation : https://github.com/GustavoVitorS/Polka-dots-animation
-
-# Purple Matrix : https://github.com/GustavoVitorS/Purple-Matrix
-
-# Fire animation : https://github.com/GustavoVitorS/Fire-animation
-
-# Fluid Simulation JS : https://github.com/GustavoVitorS/fluid-simulation-JS
-
-# JS Animation Color Spheres : https://github.com/GustavoVitorS/JS-animation-color-spheres
-
-# Rain : https://github.com/GustavoVitorS/Rain
-
-# Moon Phase in an alternate reality : https://github.com/GustavoVitorS/Moon-phase-in-an-alternate-reality
-
-# Green sharingan : https://github.com/GustavoVitorS/Green-sharingan
-
-# Fireflies in a Forest : https://github.com/GustavoVitorS/Fireflies-in-a-forest
-
-# Stars Background with Mountains : https://github.com/GustavoVitorS/Stars-background-with-mountains
-
-# al-rata-alada : https://github.com/GustavoVitorS/al-rata-alada
-
-# Behind The Mouse : https://github.com/GustavoVitorS/behind-the-mouse
-
-# Cloud Animation : https://github.com/GustavoVitorS/cloud-animation
-
+# Animation: 
+  ## Repository: https://github.com/GustavoVitorS/animation
+  ## Deploy: https://gustavovitors.github.io/animation/
+  ##
+  
+# Typing animation : 
+  ## Repository: https://github.com/GustavoVitorS/Typing
+  ## Deploy: https://gustavovitors.github.io/Typing/
+  ##
+  
+# Move-your-Mouse : 
+  ## Repository: https://github.com/GustavoVitorS/Move-your-Mouse
+  ## Deploy: https://gustavovitors.github.io/Move-your-Mouse/
+  ##
+  
+# Polka-dots-animation : 
+  ## Repository: https://github.com/GustavoVitorS/Polka-dots-animation
+  ## Deploy: https://gustavovitors.github.io/Polka-dots-animation/
+  ##
+  
+# Purple Matrix : 
+  ## Repository: https://github.com/GustavoVitorS/Purple-Matrix
+  ## Deploy: https://gustavovitors.github.io/Purple-Matrix/
+  ##
+  
+# Fire animation : 
+  ## Repository: https://github.com/GustavoVitorS/Fire-animation
+  ## Deploy: https://gustavovitors.github.io/Fire-animation/
+  ##
+  
+# Fluid Simulation JS : 
+  ## Repository: https://github.com/GustavoVitorS/fluid-simulation-JS
+  ## Deploy: https://gustavovitors.github.io/fluid-simulation-JS/
+  ##
+  
+# JS Animation Color Spheres : 
+  ## Repository: https://github.com/GustavoVitorS/JS-animation-color-spheres
+  ## Deploy: https://gustavovitors.github.io/JS-animation-color-spheres/
+  ##
+  
+# Rain : 
+  ## Repository: https://github.com/GustavoVitorS/Rain
+  ## Deploy: https://gustavovitors.github.io/Rain/
+  ##
+  
+# Moon Phase in an alternate reality : 
+  ## Repository: https://github.com/GustavoVitorS/Moon-phase-in-an-alternate-reality
+  ## Deploy: https://gustavovitors.github.io/Moon-phase-in-an-alternate-reality/
+  ##
+  
+# Green sharingan : 
+  ## Repository: https://github.com/GustavoVitorS/Green-sharingan
+  ## Deploy: https://gustavovitors.github.io/Green-sharingan/
+  ##
+  
+# Fireflies in a Forest : 
+  ## Repository: https://github.com/GustavoVitorS/Fireflies-in-a-forest
+  ## Deploy: https://gustavovitors.github.io/Fireflies-in-a-forest/
+  ##
+  
+# Stars Background with Mountains : 
+  ## Repository: https://github.com/GustavoVitorS/Stars-background-with-mountains
+  ## Deploy: https://gustavovitors.github.io/Stars-background-with-mountains/
+  ##
+  
+# al-rata-alada : 
+  ## Repository: https://github.com/GustavoVitorS/al-rata-alada
+  ## Deploy: https://gustavovitors.github.io/al-rata-alada/
+  ##
+  
+# Behind The Mouse : 
+  ## Repository: https://github.com/GustavoVitorS/behind-the-mouse
+  ## Deploy: https://gustavovitors.github.io/behind-the-mouse/
+  ##
+  
+# Cloud Animation : 
+  ## Repository: https://github.com/GustavoVitorS/cloud-animation
+  ## Deploy: https://gustavovitors.github.io/cloud-animation/
+  ##
+  
 # Simulation Purple Terminal : https://github.com/GustavoVitorS/Simulation-purple-terminal
 
 # Fireball : https://github.com/GustavoVitorS/Fireball
