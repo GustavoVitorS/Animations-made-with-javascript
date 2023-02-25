@@ -195,46 +195,109 @@
   ## Deploy: https://gustavovitors.github.io/No-signal/
   ##
   
-# Storm : https://github.com/GustavoVitorS/Storm
-
-# Shape-rotation : https://github.com/GustavoVitorS/Shape-rotation
-
-# Drop-of-color-JS : https://github.com/GustavoVitorS/drop-of-color-JS
-
-# Particle-Spinning-JS-Animation : https://github.com/GustavoVitorS/Particle-Spinning-JS-Animation
-
-# Infinite Glitch Text : https://github.com/GustavoVitorS/infinite-glitch-text
-
-# Color-particles-in-mouse-JS : https://github.com/GustavoVitorS/Color-particles-in-mouse-JS
-
-# Mouse-generated-particles :  https://github.com/GustavoVitorS/Mouse-generated-particles
-
-# js-animation-circle : https://github.com/GustavoVitorS/js-animation-circle
-
-# Text-JS : https://github.com/GustavoVitorS/Text-JS
-
-# Black Hole Devouring Stars : https://github.com/GustavoVitorS/Black-hole-devouring-stars
-
-# Box RGB JS Animation : https://github.com/GustavoVitorS/Box-rgb-js-animation
-
-# JS_Illustration : https://github.com/GustavoVitorS/js-illustration
-
-# Particles_Colliding_Js : https://github.com/GustavoVitorS/Particles-Colliding-Js
-
-# JS_Infinite_Runner : https://github.com/GustavoVitorS/JS-Infinite-Runner
-
-# JS-Dark-Sphere : https://github.com/GustavoVitorS/JS-Dark-Sphere
-
-# Bacteria-Animation-V2 : https://github.com/GustavoVitorS/Bacteria-Animation-V2
-
-# frequency-sphere : https://github.com/GustavoVitorS/frequency-sphere
-
-# Falling-into-the-infinite-runner : https://github.com/GustavoVitorS/Falling-into-the-infinite-runner
-
-# bacteria-animation : https://github.com/GustavoVitorS/bacteria-animation
-
-# Stars Background : https://github.com/GustavoVitorS/Stars-Background
-
-# Lines : https://github.com/GustavoVitorS/Lines
-
+# Storm : 
+  ## Repository: https://github.com/GustavoVitorS/Storm
+  ## Deploy: https://gustavovitors.github.io/Storm/
+  ##
+  
+# Shape-rotation : 
+  ## Repository: https://github.com/GustavoVitorS/Shape-rotation
+  ## Deploy: https://gustavovitors.github.io/Shape-rotation/
+  ##
+  
+# Drop-of-color-JS : 
+  ## Repository: https://github.com/GustavoVitorS/drop-of-color-JS
+  ## Deploy: https://gustavovitors.github.io/drop-of-color-JS/
+  ##
+  
+# Particle-Spinning-JS-Animation : 
+  ## Repository: https://github.com/GustavoVitorS/Particle-Spinning-JS-Animation
+  ## Deploy: https://gustavovitors.github.io/Particle-Spinning-JS-Animation/
+  ##
+  
+# Infinite Glitch Text : 
+  ## Repository: https://github.com/GustavoVitorS/infinite-glitch-text
+  ## Deploy: https://gustavovitors.github.io/infinite-glitch-text/
+  ##
+  
+# Color-particles-in-mouse-JS : 
+  ## Repository: https://github.com/GustavoVitorS/Color-particles-in-mouse-JS
+  ## Deploy: https://gustavovitors.github.io/Color-particles-in-mouse-JS/
+  ##
+  
+# Mouse-generated-particles :  
+  ## Repository: https://github.com/GustavoVitorS/Mouse-generated-particles
+  ## Deploy: https://gustavovitors.github.io/Mouse-generated-particles/
+  ##
+  
+# js-animation-circle : 
+  ## Repository: https://github.com/GustavoVitorS/js-animation-circle
+  ## Deploy: https://gustavovitors.github.io/js-animation-circle/
+  ##
+  
+# Text-JS : 
+  ## Repository: https://github.com/GustavoVitorS/Text-JS
+  ## Deploy: https://gustavovitors.github.io/Text-JS/
+  ##
+  
+# Black Hole Devouring Stars : 
+  ## Repository: https://github.com/GustavoVitorS/Black-hole-devouring-stars
+  ## Deploy: https://gustavovitors.github.io/Black-hole-devouring-stars/
+  ##
+  
+# Box RGB JS Animation : 
+  ## Repository: https://github.com/GustavoVitorS/Box-rgb-js-animation
+  ## Deploy: https://gustavovitors.github.io/Box-rgb-js-animation/
+  ##
+  
+# JS_Illustration : 
+  ## Repository: https://github.com/GustavoVitorS/js-illustration
+  ## Deploy: https://gustavovitors.github.io/js-illustration/
+  ##
+  
+# Particles_Colliding_Js : 
+  ## Repository: https://github.com/GustavoVitorS/Particles-Colliding-Js
+  ## Deploy: https://gustavovitors.github.io/Particles-Colliding-Js/
+  ##
+  
+# JS_Infinite_Runner : 
+  ## Repository: https://github.com/GustavoVitorS/JS-Infinite-Runner
+  ## Deploy: https://gustavovitors.github.io/JS-Infinite-Runner/
+  ##
+  
+# JS-Dark-Sphere : 
+  ## Repository: https://github.com/GustavoVitorS/JS-Dark-Sphere
+  ## Deploy: https://gustavovitors.github.io/JS-Dark-Sphere/
+  ##
+  
+# Bacteria-Animation-V2 : 
+  ## Repository: https://github.com/GustavoVitorS/Bacteria-Animation-V2
+  ## Deploy: https://gustavovitors.github.io/Bacteria-Animation-V2/
+  ##
+  
+# frequency-sphere : 
+  ## Repository: https://github.com/GustavoVitorS/frequency-sphere
+  ## Deploy: https://gustavovitors.github.io/frequency-sphere/
+  ##
+  
+# Falling-into-the-infinite-runner : 
+  ## Repository: https://github.com/GustavoVitorS/Falling-into-the-infinite-runner
+  ## Deploy: https://gustavovitors.github.io/Falling-into-the-infinite-runner/
+  ##
+  
+# bacteria-animation : 
+  ## Repository: https://github.com/GustavoVitorS/bacteria-animation
+  ## Deploy: https://gustavovitors.github.io/bacteria-animation/
+  ##
+  
+# Stars Background : 
+  ## Repository: https://github.com/GustavoVitorS/Stars-Background
+  ## Deploy: https://gustavovitors.github.io/Stars-Background/
+  ##
+  
+# Lines : 
+  ## Repository: https://github.com/GustavoVitorS/Lines
+  ## Deploy: https://gustavovitors.github.io/Lines/
+  ##
+  
 ##  ⚠️ Note:This is a repository containing links to all projects mentioned in the repository name. This makes it easier to find, eventually it will be updated when another project related to this repository comes out.
