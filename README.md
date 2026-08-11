@@ -55,11 +55,6 @@
   ## Deploy: https://gustavovitors.github.io/Moon-phase-in-an-alternate-reality/
   ##
   
-# Green sharingan : 
-  ## Repository: https://github.com/GustavoVitorS/Green-sharingan
-  ## Deploy: https://gustavovitors.github.io/Green-sharingan/
-  ##
-  
 # Fireflies in a Forest : 
   ## Repository: https://github.com/GustavoVitorS/Fireflies-in-a-forest
   ## Deploy: https://gustavovitors.github.io/Fireflies-in-a-forest/
