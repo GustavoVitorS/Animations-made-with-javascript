@@ -25,11 +25,6 @@
   ## Deploy: https://gustavovitors.github.io/Polka-dots-animation/
   ##
   
-# Purple Matrix : 
-  ## Repository: https://github.com/GustavoVitorS/Purple-Matrix
-  ## Deploy: https://gustavovitors.github.io/Purple-Matrix/
-  ##
-  
 # Fire animation : 
   ## Repository: https://github.com/GustavoVitorS/Fire-animation
   ## Deploy: https://gustavovitors.github.io/Fire-animation/
