@@ -120,11 +120,6 @@
   ## Deploy: https://gustavovitors.github.io/Snow/
   ##
   
-# Stars-Background-V2 : 
-  ## Repository: https://github.com/GustavoVitorS/Stars-Background-V2
-  ## Deploy: https://gustavovitors.github.io/Stars-Background-V2/
-  ##
-  
 # Rotating-particles : 
   ## Repository: https://github.com/GustavoVitorS/Rotating-particles
   ## Deploy: https://gustavovitors.github.io/Rotating-particles/
