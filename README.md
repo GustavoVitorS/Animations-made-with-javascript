@@ -45,11 +45,6 @@
   ## Deploy: https://gustavovitors.github.io/Rain/
   ##
   
-# Moon Phase in an alternate reality : 
-  ## Repository: https://github.com/GustavoVitorS/Moon-phase-in-an-alternate-reality
-  ## Deploy: https://gustavovitors.github.io/Moon-phase-in-an-alternate-reality/
-  ##
-  
 # Fireflies in a Forest : 
   ## Repository: https://github.com/GustavoVitorS/Fireflies-in-a-forest
   ## Deploy: https://gustavovitors.github.io/Fireflies-in-a-forest/
