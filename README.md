@@ -50,11 +50,6 @@
   ## Deploy: https://gustavovitors.github.io/Fireflies-in-a-forest/
   ##
   
-# Stars Background with Mountains : 
-  ## Repository: https://github.com/GustavoVitorS/Stars-background-with-mountains
-  ## Deploy: https://gustavovitors.github.io/Stars-background-with-mountains/
-  ##
-  
 # al-rata-alada : 
   ## Repository: https://github.com/GustavoVitorS/al-rata-alada
   ## Deploy: https://gustavovitors.github.io/al-rata-alada/
