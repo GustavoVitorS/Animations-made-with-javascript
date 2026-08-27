@@ -105,11 +105,6 @@
   ## Deploy: https://gustavovitors.github.io/My-day/
   ##
   
-# Snow Background : 
-  ## Repository: https://github.com/GustavoVitorS/Snow
-  ## Deploy: https://gustavovitors.github.io/Snow/
-  ##
-  
 # Rotating-particles : 
   ## Repository: https://github.com/GustavoVitorS/Rotating-particles
   ## Deploy: https://gustavovitors.github.io/Rotating-particles/
