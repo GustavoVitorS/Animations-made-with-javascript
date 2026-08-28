@@ -175,11 +175,6 @@
   ## Deploy: https://gustavovitors.github.io/Shape-rotation/
   ##
   
-# Drop-of-color-JS : 
-  ## Repository: https://github.com/GustavoVitorS/drop-of-color-JS
-  ## Deploy: https://gustavovitors.github.io/drop-of-color-JS/
-  ##
-  
 # Particle-Spinning-JS-Animation : 
   ## Repository: https://github.com/GustavoVitorS/Particle-Spinning-JS-Animation
   ## Deploy: https://gustavovitors.github.io/Particle-Spinning-JS-Animation/
