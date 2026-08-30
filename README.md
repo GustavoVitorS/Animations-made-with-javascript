@@ -4,11 +4,6 @@
   ## Repository: https://github.com/GustavoVitorS/mouse
   ## Deploy: https://gustavovitors.github.io/mouse/
   ##
-
-# Animation: 
-  ## Repository: https://github.com/GustavoVitorS/animation
-  ## Deploy: https://gustavovitors.github.io/animation/
-  ##
   
 # Typing animation : 
   ## Repository: https://github.com/GustavoVitorS/Typing
