@@ -19,12 +19,7 @@
   ## Repository: https://github.com/GustavoVitorS/Polka-dots-animation
   ## Deploy: https://gustavovitors.github.io/Polka-dots-animation/
   ##
-  
-# Fire animation : 
-  ## Repository: https://github.com/GustavoVitorS/Fire-animation
-  ## Deploy: https://gustavovitors.github.io/Fire-animation/
-  ##
-  
+
 # Fluid Simulation JS : 
   ## Repository: https://github.com/GustavoVitorS/fluid-simulation-JS
   ## Deploy: https://gustavovitors.github.io/fluid-simulation-JS/
