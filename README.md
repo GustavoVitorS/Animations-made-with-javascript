@@ -90,11 +90,6 @@
   ## Deploy: https://gustavovitors.github.io/baby-black-snakes/
   ##
   
-# My-day : 
-  ## Repository: https://github.com/GustavoVitorS/My-day
-  ## Deploy: https://gustavovitors.github.io/My-day/
-  ##
-  
 # Rotating-particles : 
   ## Repository: https://github.com/GustavoVitorS/Rotating-particles
   ## Deploy: https://gustavovitors.github.io/Rotating-particles/
