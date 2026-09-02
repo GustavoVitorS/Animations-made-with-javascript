@@ -95,11 +95,6 @@
   ## Deploy: https://gustavovitors.github.io/Rotating-particles/
   ##
   
-# fluid-sphere : 
-  ## Repository: https://github.com/GustavoVitorS/fluid-sphere
-  ## Deploy: https://gustavovitors.github.io/fluid-sphere/
-  ##
-  
 # distorted-light : 
   ## Repository: https://github.com/GustavoVitorS/distorted-light
   ## Deploy: https://gustavovitors.github.io/distorted-light/
