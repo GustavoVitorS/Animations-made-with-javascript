@@ -195,11 +195,6 @@
   ## Deploy: https://gustavovitors.github.io/Box-rgb-js-animation/
   ##
   
-# JS_Illustration : 
-  ## Repository: https://github.com/GustavoVitorS/js-illustration
-  ## Deploy: https://gustavovitors.github.io/js-illustration/
-  ##
-  
 # Particles_Colliding_Js : 
   ## Repository: https://github.com/GustavoVitorS/Particles-Colliding-Js
   ## Deploy: https://gustavovitors.github.io/Particles-Colliding-Js/
