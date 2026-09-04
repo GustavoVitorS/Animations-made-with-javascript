@@ -95,11 +95,6 @@
   ## Deploy: https://gustavovitors.github.io/Rotating-particles/
   ##
   
-# distorted-light : 
-  ## Repository: https://github.com/GustavoVitorS/distorted-light
-  ## Deploy: https://gustavovitors.github.io/distorted-light/
-  ##
-  
 # Infinity-hypnotize : 
   ## Repository: https://github.com/GustavoVitorS/infinity-hypnotize
   ## Deploy: https://gustavovitors.github.io/infinity-hypnotize/
