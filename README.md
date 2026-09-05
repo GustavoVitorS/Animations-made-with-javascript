@@ -100,11 +100,6 @@
   ## Deploy: https://gustavovitors.github.io/infinity-hypnotize/
   ##
   
-# flame-text : 
-  ## Repository: https://github.com/GustavoVitorS/flame-text
-  ## Deploy: https://gustavovitors.github.io/flame-text/
-  ##
-  
 # vertical-explosion : 
   ## Repository: https://github.com/GustavoVitorS/vertical-explosion
   ## Deploy: https://gustavovitors.github.io/vertical-explosion/
