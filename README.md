@@ -145,11 +145,6 @@
   ## Deploy: https://gustavovitors.github.io/Storm/
   ##
   
-# Shape-rotation : 
-  ## Repository: https://github.com/GustavoVitorS/Shape-rotation
-  ## Deploy: https://gustavovitors.github.io/Shape-rotation/
-  ##
-  
 # Particle-Spinning-JS-Animation : 
   ## Repository: https://github.com/GustavoVitorS/Particle-Spinning-JS-Animation
   ## Deploy: https://gustavovitors.github.io/Particle-Spinning-JS-Animation/
