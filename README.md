@@ -35,11 +35,6 @@
   ## Deploy: https://gustavovitors.github.io/Rain/
   ##
   
-# Fireflies in a Forest : 
-  ## Repository: https://github.com/GustavoVitorS/Fireflies-in-a-forest
-  ## Deploy: https://gustavovitors.github.io/Fireflies-in-a-forest/
-  ##
-  
 # al-rata-alada : 
   ## Repository: https://github.com/GustavoVitorS/al-rata-alada
   ## Deploy: https://gustavovitors.github.io/al-rata-alada/
