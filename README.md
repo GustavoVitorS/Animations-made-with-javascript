@@ -140,11 +140,6 @@
   ## Deploy: https://gustavovitors.github.io/Particle-Spinning-JS-Animation/
   ##
   
-# Infinite Glitch Text : 
-  ## Repository: https://github.com/GustavoVitorS/infinite-glitch-text
-  ## Deploy: https://gustavovitors.github.io/infinite-glitch-text/
-  ##
-  
 # Color-particles-in-mouse-JS : 
   ## Repository: https://github.com/GustavoVitorS/Color-particles-in-mouse-JS
   ## Deploy: https://gustavovitors.github.io/Color-particles-in-mouse-JS/
