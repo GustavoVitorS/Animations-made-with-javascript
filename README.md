@@ -30,11 +30,6 @@
   ## Deploy: https://gustavovitors.github.io/JS-animation-color-spheres/
   ##
   
-# Rain : 
-  ## Repository: https://github.com/GustavoVitorS/Rain
-  ## Deploy: https://gustavovitors.github.io/Rain/
-  ##
-  
 # al-rata-alada : 
   ## Repository: https://github.com/GustavoVitorS/al-rata-alada
   ## Deploy: https://gustavovitors.github.io/al-rata-alada/
