@@ -5,11 +5,6 @@
   ## Deploy: https://gustavovitors.github.io/Typing/
   ##
   
-# Move-your-Mouse : 
-  ## Repository: https://github.com/GustavoVitorS/Move-your-Mouse
-  ## Deploy: https://gustavovitors.github.io/Move-your-Mouse/
-  ##
-  
 # Polka-dots-animation : 
   ## Repository: https://github.com/GustavoVitorS/Polka-dots-animation
   ## Deploy: https://gustavovitors.github.io/Polka-dots-animation/
