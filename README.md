@@ -1,9 +1,4 @@
 # Animations made with javascript 💫
-
-# Mouse cursor animation : 
-  ## Repository: https://github.com/GustavoVitorS/mouse
-  ## Deploy: https://gustavovitors.github.io/mouse/
-  ##
   
 # Typing animation : 
   ## Repository: https://github.com/GustavoVitorS/Typing
