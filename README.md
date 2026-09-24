@@ -175,11 +175,6 @@
   ## Deploy: https://gustavovitors.github.io/Bacteria-Animation-V2/
   ##
   
-# frequency-sphere : 
-  ## Repository: https://github.com/GustavoVitorS/frequency-sphere
-  ## Deploy: https://gustavovitors.github.io/frequency-sphere/
-  ##
-  
 # Falling-into-the-infinite-runner : 
   ## Repository: https://github.com/GustavoVitorS/Falling-into-the-infinite-runner
   ## Deploy: https://gustavovitors.github.io/Falling-into-the-infinite-runner/
