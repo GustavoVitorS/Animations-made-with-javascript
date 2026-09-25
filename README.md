@@ -15,11 +15,6 @@
   ## Deploy: https://gustavovitors.github.io/fluid-simulation-JS/
   ##
   
-# JS Animation Color Spheres : 
-  ## Repository: https://github.com/GustavoVitorS/JS-animation-color-spheres
-  ## Deploy: https://gustavovitors.github.io/JS-animation-color-spheres/
-  ##
-  
 # al-rata-alada : 
   ## Repository: https://github.com/GustavoVitorS/al-rata-alada
   ## Deploy: https://gustavovitors.github.io/al-rata-alada/
