@@ -889,6 +889,4 @@ This repository exists to organize them all in one professional and easy-to-brow
 
 <br>
 
-### Animate • Experiment • Build • Evolve
-
 </div>
