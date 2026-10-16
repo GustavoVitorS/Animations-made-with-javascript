@@ -35,7 +35,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 |:--|:--:|:--:|
 | **Typing Animation** | [Repository](https://github.com/GustavoVitorS/Typing-animation) | [Open Demo]() |
 | **Polka Dots Animation** | [Repository](https://github.com/GustavoVitorS/Polka-dots-animation) | [Open Demo](https://gustavovitors.github.io/Polka-dots-animation/) |
-| **Fluid Simulation JS** | [Repository](https://github.com/GustavoVitorS/Fluid-Simulation-JS) | [Open Demo](https://gustavovitors.github.io/Fluid-Simulation-JS/) |
+| **Fluid Simulation JS** | [Repository](https://github.com/GustavoVitorS/Fluid-Simulation-JS) | [Open Demo]() |
 | **Al Rata Alada** | [Repository](https://github.com/GustavoVitorS/al-rata-alada) | [Open Demo](https://gustavovitors.github.io/al-rata-alada/) |
 | **Behind The Mouse** | [Repository](https://github.com/GustavoVitorS/Behind-The-Mouse) | [Open Demo](https://gustavovitors.github.io/Behind-The-Mouse/) |
 | **Cloud Animation** | [Repository](https://github.com/GustavoVitorS/Cloud-Animation) | [Open Demo](https://gustavovitors.github.io/Cloud-Animation/) |
