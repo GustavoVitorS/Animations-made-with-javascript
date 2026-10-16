@@ -33,7 +33,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 
 | Project | Repository | Deploy |
 |:--|:--:|:--:|
-| **Typing Animation** | [Repository](https://github.com/GustavoVitorS/Typing-animation) | [Open Demo](https://gustavovitors.github.io/Typing-animation/) |
+| **Typing Animation** | [Repository](https://github.com/GustavoVitorS/Typing-animation) | [Open Demo]() |
 | **Polka Dots Animation** | [Repository](https://github.com/GustavoVitorS/Polka-dots-animation) | [Open Demo](https://gustavovitors.github.io/Polka-dots-animation/) |
 | **Fluid Simulation JS** | [Repository](https://github.com/GustavoVitorS/Fluid-Simulation-JS) | [Open Demo](https://gustavovitors.github.io/Fluid-Simulation-JS/) |
 | **Al Rata Alada** | [Repository](https://github.com/GustavoVitorS/al-rata-alada) | [Open Demo](https://gustavovitors.github.io/al-rata-alada/) |
