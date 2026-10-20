@@ -37,7 +37,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 | **Polka Dots Animation** | [Repository](https://github.com/GustavoVitorS/Polka-dots-animation) | [Open Demo](https://gustavovitors.github.io/Polka-dots-animation/) |
 | **Fluid Simulation JS** | [Repository](https://github.com/GustavoVitorS/Fluid-Simulation-JS) | [Open Demo]() |
 | **Al Rata Alada** | [Repository](https://github.com/GustavoVitorS/al-rata-alada) | [Open Demo](https://gustavovitors.github.io/al-rata-alada/) |
-| **Behind The Mouse** | [Repository](https://github.com/GustavoVitorS/Behind-The-Mouse) | [Open Demo](https://gustavovitors.github.io/Behind-The-Mouse/) |
+| **Behind The Mouse** | [Repository](https://github.com/GustavoVitorS/Behind-The-Mouse) | [Open Demo]() |
 | **Cloud Animation** | [Repository](https://github.com/GustavoVitorS/Cloud-Animation) | [Open Demo](https://gustavovitors.github.io/Cloud-Animation/) |
 | **Simulation Purple Terminal** | [Repository](https://github.com/GustavoVitorS/Simulation-Purple-Terminal) | [Open Demo](https://gustavovitors.github.io/Simulation-Purple-Terminal/) |
 | **Fireball** | [Repository](https://github.com/GustavoVitorS/Fireball) | [Open Demo](https://gustavovitors.github.io/Fireball/) |
