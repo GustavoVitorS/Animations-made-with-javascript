@@ -39,7 +39,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 | **Al Rata Alada** | [Repository](https://github.com/GustavoVitorS/al-rata-alada) | [Open Demo](https://gustavovitors.github.io/al-rata-alada/) |
 | **Behind The Mouse** | [Repository](https://github.com/GustavoVitorS/Behind-The-Mouse) | [Open Demo]() |
 | **Cloud Animation** | [Repository](https://github.com/GustavoVitorS/Cloud-Animation) | [Open Demo]() |
-| **Simulation Purple Terminal** | [Repository](https://github.com/GustavoVitorS/Simulation-Purple-Terminal) | [Open Demo](https://gustavovitors.github.io/Simulation-Purple-Terminal/) |
+| **Simulation Purple Terminal** | [Repository](https://github.com/GustavoVitorS/Simulation-Purple-Terminal) | [Open Demo]() |
 | **Fireball** | [Repository](https://github.com/GustavoVitorS/Fireball) | [Open Demo](https://gustavovitors.github.io/Fireball/) |
 | **Sun** | [Repository](https://github.com/GustavoVitorS/Sun) | [Open Demo](https://gustavovitors.github.io/Sun/) |
 | **Brain of a Genius** | [Repository](https://github.com/GustavoVitorS/Brain-of-a-Genius) | [Open Demo](https://gustavovitors.github.io/Brain-of-a-Genius/) |
