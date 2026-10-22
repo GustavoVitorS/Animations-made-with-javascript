@@ -42,7 +42,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 | **Simulation Purple Terminal** | [Repository](https://github.com/GustavoVitorS/Simulation-Purple-Terminal) | [Open Demo]() |
 | **Fireball** | [Repository](https://github.com/GustavoVitorS/Fireball) | [Open Demo](https://gustavovitors.github.io/Fireball/) |
 | **Sun** | [Repository](https://github.com/GustavoVitorS/Sun) | [Open Demo](https://gustavovitors.github.io/Sun/) |
-| **Brain of a Genius** | [Repository](https://github.com/GustavoVitorS/Brain-of-a-Genius) | [Open Demo](https://gustavovitors.github.io/Brain-of-a-Genius/) |
+| **Brain of a Genius** | [Repository](https://github.com/GustavoVitorS/Brain-of-a-Genius) | [Open Demo]() |
 | **Particles JS Background** | [Repository](https://github.com/GustavoVitorS/Particles-JS_Background) | [Open Demo](https://gustavovitors.github.io/Particles-JS_Background/) |
 | **Wave Lines** | [Repository](https://github.com/GustavoVitorS/Wave-lines) | [Open Demo](https://gustavovitors.github.io/Wave-lines/) |
 | **Baby Black Snakes** | [Repository](https://github.com/GustavoVitorS/Baby-Black-Snakes) | [Open Demo](https://gustavovitors.github.io/Baby-Black-Snakes/) |
