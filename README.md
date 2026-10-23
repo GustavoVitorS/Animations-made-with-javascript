@@ -44,7 +44,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 | **Sun** | [Repository](https://github.com/GustavoVitorS/Sun) | [Open Demo](https://gustavovitors.github.io/Sun/) |
 | **Brain of a Genius** | [Repository](https://github.com/GustavoVitorS/Brain-of-a-Genius) | [Open Demo]() |
 | **Particles JS Background** | [Repository](https://github.com/GustavoVitorS/Particles-JS_Background) | [Open Demo](https://gustavovitors.github.io/Particles-JS_Background/) |
-| **Wave Lines** | [Repository](https://github.com/GustavoVitorS/Wave-lines) | [Open Demo](https://gustavovitors.github.io/Wave-lines/) |
+| **Wave Lines** | [Repository](https://github.com/GustavoVitorS/Wave-lines) | [Open Demo]() |
 | **Baby Black Snakes** | [Repository](https://github.com/GustavoVitorS/Baby-Black-Snakes) | [Open Demo](https://gustavovitors.github.io/Baby-Black-Snakes/) |
 | **Rotating Particles** | [Repository](https://github.com/GustavoVitorS/Rotating-particles) | [Open Demo](https://gustavovitors.github.io/Rotating-particles/) |
 | **Infinity Hypnotize** | [Repository](https://github.com/GustavoVitorS/Infinity-hypnotize) | [Open Demo](https://gustavovitors.github.io/Infinity-hypnotize/) |
