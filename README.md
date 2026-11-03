@@ -64,7 +64,7 @@ This repository works as a central hub for particle effects, mouse interactions,
 | **Black Hole Devouring Stars** | [Repository](https://github.com/GustavoVitorS/Black-Hole-Devouring-Stars) | [Open Demo](https://gustavovitors.github.io/Black-Hole-Devouring-Stars/) |
 | **Box RGB JS Animation** | [Repository](https://github.com/GustavoVitorS/Box-RGB-JS-Animation) | [Open Demo](https://gustavovitors.github.io/Box-RGB-JS-Animation/) |
 | **Particles Colliding JS** | [Repository](https://github.com/GustavoVitorS/Particles_Colliding_Js) | [Open Demo](https://gustavovitors.github.io/Particles_Colliding_Js/) |
-| **JS Infinite Runner** | [Repository](https://github.com/GustavoVitorS/JS_Infinite_Runner) | [Open Demo](https://gustavovitors.github.io/JS_Infinite_Runner/) |
+| **JS Infinite Runner** | [Repository](https://github.com/GustavoVitorS/JS_Infinite_Runner) | [Open Demo]() |
 | **JS Dark Sphere** | [Repository](https://github.com/GustavoVitorS/JS-Dark-Sphere) | [Open Demo](https://gustavovitors.github.io/JS-Dark-Sphere/) |
 | **Bacteria Animation V2** | [Repository](https://github.com/GustavoVitorS/Bacteria-Animation-V2) | [Open Demo](https://gustavovitors.github.io/Bacteria-Animation-V2/) |
 | **Falling into the Infinite Runner** | [Repository](https://github.com/GustavoVitorS/Falling-into-the-infinite-runner) | [Open Demo](https://gustavovitors.github.io/Falling-into-the-infinite-runner/) |
