@@ -879,14 +879,4 @@ This repository exists to organize them all in one professional and easy-to-brow
 
 <div align="center">
 
-## 👨‍💻 Gustavo Vitor
 
-**JavaScript Animations • Creative Coding • Interactive Motion • Front-End Experiments**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-GustavoVitorS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoVitorS)
-
-<br>
-
-</div>
